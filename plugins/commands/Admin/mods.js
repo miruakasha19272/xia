@@ -3,7 +3,7 @@ const config = {
     aliases: ["moderators"],
     version: "1.0.1",
     description: "List, Add or remove moderators",
-    permissions: [2],
+    permissions: [1],
     cooldown: 5
 }
 
