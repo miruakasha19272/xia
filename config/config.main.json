@@ -22,7 +22,7 @@
         "61559166740425"
     ],
     "NAME": "theo bot",
-    "PREFIX": "~",
+    "PREFIX": "+",
     "timezone": "Asia/Manila",
     "REFRESH": "43200000"
 }
