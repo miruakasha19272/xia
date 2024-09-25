@@ -1,9 +1,3 @@
-import { Assets } from "../../../core/handlers/assets.js";
-import { loadPlugins } from "../../../core/var/modules/loader.js";
-import {isExists, createDir} from "../../../core/var/utils.js";
-const __dirname = import.meta.dirname;
-import fs from "fs";
-
 const config = {
     name: "plugins",
     aliases: ["pl", "plg", "plugin"],
